@@ -23,6 +23,7 @@ Try to copy as accurately as possible and don't use CSS or some code snippets fr
 1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
+1. Enter link to your repository in Canvas
 
 [create-repo]: https://help.github.com/articles/create-a-repo
 [private-repos]: /guide/private_repos
